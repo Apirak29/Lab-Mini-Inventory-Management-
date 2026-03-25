@@ -1,0 +1,5 @@
+{
+  "name": "mini Inventory - ระบบจัดการสต๊อกสินค้า",
+  "description": "แอปพลิเคชันสำหรับจัดการสต๊อกสินค้าเบื้องต้น พัฒนาด้วย React, TypeScript และ Tailwind CSS",
+  "requestFramePermissions": []
+}
